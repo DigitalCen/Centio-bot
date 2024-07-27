@@ -247,7 +247,7 @@ async(Void, citel,text,{isCreator}) => {
 
 if(!isCreator) return citel.reply(tlang().owner);
 let str="*All available themes in IZUKU *"
-str+=`1. IZUKU\n2. ADAM\n3. AYANOKOJI\n4. EDITH\n5. FRIDAY\n6. GENOS\n7. GIDEON\n8. GOKU\n9. LUFFY\n10. NARUTO\n11. NEZUKO\n12. PARKER\n13. GARENA\n14. SECKTOR\n15 Eren Jeager\n\n these are the themes of IZUKU Userbot.\_Reply ${prefix}setvar THEME:GARENA`
+str+=`1. IZUKU\n2. ADAM\n3. AYANOKOJI\n4. EDITH\n5. FRIDAY\n6. GENOS\n7. GIDEON\n8. GOKU\n9. LUFFY\n10. NARUTO\n11. NEZUKO\n12. PARKER\n13. GARENA\n14. SECKTOR\n15 Eren Jeager\n\n 16.CETINO these are the themes of IZUKU Userbot.\_Reply ${prefix}setvar THEME:CENTIO`
 return citel.reply(str)
     
 }
