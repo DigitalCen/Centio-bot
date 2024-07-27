@@ -274,7 +274,7 @@ cmd({
     )
     //---------------------------------------------------------------------------
 cmd({
-            pattern: "pint",
+            pattern: "pinterest",
             desc: "Downloads image from pinterest.",
             category: "downloader",
             filename: __filename,
