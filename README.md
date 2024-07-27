@@ -43,4 +43,4 @@ Give Centio-bot a star to show your appreciation and support 🌟 to the team.
 </a>
 
 
-[https://dashboard.heroku.com/new?template=https://github.com/DigitalCen/Centio-Bot](HEROKU)
+(https://dashboard.heroku.com/new?template=https://github.com/DigitalCen/Centio-Bot)[HEROKU]
