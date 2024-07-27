@@ -114,15 +114,15 @@ cmd({
         filename: __filename,
     },
     async(Void, citel) => {
-        let { data } = await axios.get('https://api.github.com/repos/excelottah6/IZUKU-MD')
+        let { data } = await axios.get('https://api.github.com/repos/DigitalCen/Centio-Bot')
         let cap = `Hey ${citel.pushName}\n
-╭┈─────────────────────    .· * • ˚
+╭┈─────────────────────○
 │*⭐ Total Stars:* ${data.stargazers_count} stars
 │*🍴 Forks:* ${data.forks_count} forks
-│*📡 Repo:* https://github.com/excelottah6/IZUKU-MD
-│*🏘Group:* https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL
-│*🧑‍💻Deploy IZUKU MD*:https://github.com/excelottah6/IZUKU-MD
-╰──────────────────────✬      * ˚  ✶`
+│*📡 Repo:* https://github.com/DigitalCen/Centio-Bot
+Group: https://chat.whatsapp.com/Gm1ZM1vrQFI3UCOtgPtasH
+│*🧑‍💻Deploy Centio-bot*:https://github.com/DigitalCen/Centio-Bot
+╰────────────────────●`
         let buttonMessaged = {
             image: { url: await botpic() },
             caption: cap,
@@ -204,7 +204,7 @@ cmd({
         let ter = `
 ㅤ ────────────────────────── .°୭̥ ❁ 	
 ╰─➤｡･:*˚:✧｡ *${tlang().title}* ｡･:*˚:✧｡
-╰─➤*🌟Description:* A WhatsApp bot with rich features, build in NodeJs to make your WhatsApp enjoyable.
+╰─➤*🌟Description:* A WhatsApp bot  with rich features, build in NodeJs to make your WhatsApp enjoyable.
 ╰─➤*⚡️Speed:* ${latensie.toFixed(4)} ms
 ╰─➤*⏱Uptime:* ${runtime(process.uptime())}
 ╰─➤*📡Version:* 0.0.8
