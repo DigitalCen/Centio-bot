@@ -3,15 +3,15 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-global.owner = process.env.OWNER_NUMBER || '+2347025173426'
+global.owner = process.env.OWNER_NUMBER || '2347025173426'
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://excelamadi1:0bjdiGCzevQUGjtN@cluster0.5mrjus2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 global.port= process.env.PORT || 5000
 global.email = 'sam@secktor.live'
 global.github = 'https://github.com/DigitalCen/Centio-Bot'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '+2347025173426,2347045035241'
-global.devs = '+2347025173426,2347045035241';
+global.sudo = process.env.SUDO || '2347025173426,2347045035241'
+global.devs = '2347025173426,2347045035241';
 global.website = 'https://github.com/DigitalCen/Centio-Bot' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
 module.exports = {
