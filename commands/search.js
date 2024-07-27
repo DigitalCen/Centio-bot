@@ -73,16 +73,16 @@ cmd({
             );
             let textw = "";
             textw += `*🌟Weather of  ${text}*\n\n`;
-            textw += `*Weather:-* ${wdata.data.weather[0].main}\n`;
-            textw += `*Description:-* ${wdata.data.weather[0].description}\n`;
-            textw += `*Avg Temp:-* ${wdata.data.main.temp}\n`;
-            textw += `*Feels Like:-* ${wdata.data.main.feels_like}\n`;
-            textw += `*Pressure:-* ${wdata.data.main.pressure}\n`;
-            textw += `*Humidity:-* ${wdata.data.main.humidity}\n`;
-            textw += `*Humidity:-* ${wdata.data.wind.speed}\n`;
-            textw += `*Latitude:-* ${wdata.data.coord.lat}\n`;
-            textw += `*Longitude:-* ${wdata.data.coord.lon}\n`;
-            textw += `*Country:-* ${wdata.data.sys.country}\n`;
+            textw += `*🔆Weather:-* ${wdata.data.weather[0].main}\n`;
+            textw += `*ℹ️Description:-* ${wdata.data.weather[0].description}\n`;
+            textw += `*🌨Avg Temp:-* ${wdata.data.main.temp}\n`;
+            textw += `*🌩Feels Like:-* ${wdata.data.main.feels_like}\n`;
+            textw += `*🌠Pressure:-* ${wdata.data.main.pressure}\n`;
+            textw += `*🌤Humidity:-* ${wdata.data.main.humidity}\n`;
+            textw += `*🌦Humidity:-* ${wdata.data.wind.speed}\n`;
+            textw += `*🌨Latitude:-* ${wdata.data.coord.lat}\n`;
+            textw += `*🌬Longitude:-* ${wdata.data.coord.lon}\n`;
+            textw += `*🌏Country:-* ${wdata.data.sys.country}\n`;
 
             Void.sendMessage(
                 citel.chat, {
@@ -146,9 +146,9 @@ cmd({
         google({ 'query': text}).then(res => {
             let msg= `Google Search From : ${text} \n\n`;
             for (let g of res) {
-                msg+= `➣ Title : ${g.title}\n`;
-                msg+= `➣ Description : ${g.snippet}\n`;
-                msg+= `➣ Link : ${g.link}\n\n────────────────────────\n\n`;
+                msg+= `🏖 Title : ${g.title}\n`;
+                msg+= `📂Description : ${g.snippet}\n`;
+                msg+= `📎 Link : ${g.link}\n\n────────────────────────\n\n`;
             }
          
             return citel.reply(msg);
@@ -176,7 +176,7 @@ cmd({
         pattern: "iswa",
         category: "search",
         desc: "Searches in given rage about given number.",
-        use: '23470395703xx',
+        use: '23470450352xx',
         filename: __filename,
     },
     async(Void, citel, text) => {
