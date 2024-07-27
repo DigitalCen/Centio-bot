@@ -1,0 +1,63 @@
+
+{
+  "_JSON_": true,
+  "AUTHOR": "Xcelsama",
+  "LANGUAGE": "English",
+  "LANGCODE": "en",
+  "STRINGS": {
+    "updater": {
+      "UPDATE": "Your bot is already on the latest version.",
+      "NEW_UPDATE": "A new update is available for the bot!\n\n*Changes:*\n",
+      "UPDATED_LOCAL": "Updates have been installed!"
+    },
+    "global": {
+      "botName": "Powered by Your Centio-Bot",
+      "body": "Welcome!",
+      "greet2": "Hello, Pal!",
+      "pic1": "https://telegra.ph/file/a96da97cdc88b983a05fa.jpg",
+      "pic2": "https://telegra.ph/file/a96da97cdc88b983a05fa.jpg",
+      "pic3": "https://telegra.ph/file/a96da97cdc88b983a05fa.jpg",
+      "pic4": "https://telegra.ph/file/a96da97cdc88b983a05fa.jpg",
+      "pic5": "https://telegra.ph/file/a96da97cdc88b983a05fa.jpg",
+      "pic6": "https://telegra.ph/file/a96da97cdc88b983a05fa.jpg",
+      "pic7": "https://telegra.ph/file/a96da97cdc88b983a05fa.jpg",
+      "gif1": "https://tenor.com/bMLiP.gif",
+      "gif2": "https://tenor.com/bf0W3.gif",
+      "gif3": "https://tenor.com/SH2r.gif",
+      "gif4": "https://tenor.com/bhOLh.gif",
+      "gif5": "https://tenor.com/bSOTj.gif",
+      "gif6": "https://media.giphy.com/media/7vP6xnkkOrlGW4TmRR/giphy.gif",
+      "gif7": "https://media.giphy.com/media/7vP6xnkkOrlGW4TmRR/giphy.gif",
+      "greet": "Hey there!",
+      "dotbody": "I'm back online.",
+      "promote": "A new user has joined the group.",
+      "pmallow": "Hello! This is Your Bot.\n*The admin is currently unavailable. Please leave a message, and I'll inform them as soon as possible.*",
+      "pmblock": "❌ *Blocked*\n\nYou have been blocked for spamming.\n\n_Powered by Your Centio-bot*_",
+      "pmwarn": "✋*Warning*\nPlease do not spam, or you may be blocked. You have ${checkPermit.times} warning(s).\n\n*Powered by Your Bot*",
+      "permited": "Hello ${tname}!\n\nYou have been granted permission to send private messages.\n\nPowered by Your Bot",
+      "revoked": "Hello ${tname}!\n\nYour private message permission has been revoked.\n\nPowered by Your Bot",
+      "demote": "A user has been demoted.",
+      "antlink": "Link detected.\n*Removing message...*",
+      "session": "\n*This is your session file. Keep it safe and store it properly.*\n_Now upload this JSON file to your forked repository._\nConnect your repo to your deployment platform and deploy the branch for continuous operation.\n\n*Powered by Your Bot*",
+      "mention": "Please mention a user.",
+      "title": "Your Bot",
+      "footer": "Your Bot",
+      "by": "Made by: CitelVoid",
+      "chat_desc": "Options Available: 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+      "success": "Success ✓",
+      "dot": "Hello! How can I assist you today? Type -help for more options.",
+      "couple_male": "I'm sorry I didn't understand for so long.",
+      "couple_female": "Take everything on your shoulders.",
+      "admin": "This command is only for Admins⚠️!",
+      "botAdmin": "Please grant me Admin role❗",
+      "owner": "This command is only for my Owner ⚠️",
+      "group": "This feature is only for groups❗",
+      "private": "This feature is only for private chats.⚠️",
+      "bot": "This feature is only for bot numbers.⚠️",
+      "wait": "*Processing your request* ✅"
+    },
+    "error": {
+      "text": "Task terminated."
+    }
+  }
+}
