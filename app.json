@@ -1,14 +1,14 @@
 {
-  "name": "IZUKU-Md by excel ",
+  "name": "centino bot by Centino",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg",
+  "logo": "https://telegra.ph/file/a96da97cdc88b983a05fa.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "IzukuBot", "Secktor","IZUKUMD","theme bot","multi device","baileys","excel"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Izuku Midoriya"
+      "value": "Cetino"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -24,7 +24,7 @@
       },
     "HEROKU_API_KEY": {
     "description": "Put HEROKU API KEY",
-     "required"  :true
+     "required"  :false
     },
  "HEROKU_APP_NAME": {
     "description": "This field will be ignored. Heroku will generate a random app name.",
@@ -32,7 +32,7 @@
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg"
+     "value": "https://telegra.ph/file/a96da97cdc88b983a05fa.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -68,14 +68,15 @@
     },
       "PREFIX": {
   "description": "Enter your desired prefix for bot.",
-      "value": "."
+      "value": "*"
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "2347039570336"
+       "value": "2347045035241"
   },
    "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@Excelottah/BLACK-Md"
+    "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@Excelottah/BLACK-Md",
+"value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMkhFSmFlajNhaGROWE16S3Rob2NvbHFCWmd1aHFIRDRabFZseVJ5MmFHYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieDV5aDR2MHgySUJuZXp6UzJaNHpWWlZKOG5ZeGVUUXhHb2IxQ2k5dXJWaz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJBSVJEdHdkenVCSUMvLzBRUHpHQ21yeEFuVWZlRFVMS0I2d2hrK0hQQ1dzPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJENXpJbTRFQ01pa0YrZEpibGIxazJNeGo3Y0pqVnRJNVBwV09VeENOK0ZjPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImVIWEl2cXJEQm4vcVF5TWxxY2ZTNi9Jd0VlYTNVaURNcUQyTkVPenpMSFE9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjVIR0xlclEwdHBOQVhxVVJDSWJuTmp3OHlsTjlwNXMvY2gzTDhURi9YRkE9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQU1kTUtwWnJ2U25QZkErdEhyOHJTQzBORklkMld6VWRjZ2ZnTE5sTHJsZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicWhZY1lLYkV5dVNsWStKMTVJRjJlaUhLcXJCUW5Ed2t2cUljamhmNTZCOD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IitpdWE4RlI1L2t2T3R2ZmVCUUtLK2NjTVFBY3BtOXBrc3RvZ3R4VkZ6QlpVZU40ZnpIcmo4ZHZmVFRocFc4NnVhOWZ6cGcxcGFvblFHQ3lTSW5ETGpBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6OTQsImFkdlNlY3JldEtleSI6IkpPY3dOeitUMGgyUFU2eEtMWGNBcW1HSG5sZ1h3MWhaQlRJa0QxQ2xyUlU9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMjM0NzA4OTgxNjg2NkBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiJBQUZDRTM2NDM4OTIzOTg5MzAyOTZCQzFGOUNFMzY3NCJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzIyMDgxNTczfV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJKTGY0ZExvSFMtQ2syRXdYeVRDY0lnIiwicGhvbmVJZCI6ImU2MzhhM2I4LTc0OTMtNDJhNC1iZDdmLTY0NWQzZTE5NDhiMSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJzWkxaMlZSMFAwR0tVWlVkUDI0UlF3UTZtR0U9In0sInJlZ2lzdGVyZWQiOmZhbHNlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkxKSnVTc09xZ1luMDUwUGRybkRNTFhMMFBJaz0ifSwicmVnaXN0cmF0aW9uIjp7fSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0p5TGpZVUdFS0RDazdVR0dBTWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IjN4T0RFdzRWUUFvMUpqL284OTllTTJCV0gwcHRsN1cweXJsSUhKbmNSVWM9IiwiYWNjb3VudFNpZ25hdHVyZSI6IktOYzc3RjdMVmZlZkx5WTJsaWJkT2R5Um1VMFZucDRLUDNsWklmTWRPbEdSaDdEZjlmUDZxK09DSW5JWGxYekN2aEtUS1pRT01YVWovVnUzeXEyOUFnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiI1SWV2Slp0ZkxhdVF2a05UNyt3cUJWa1dQMkh3bXgvTHRheHA4YWVrM1huREdOVGtZZnNvL2wrQ29MOHhjYkFOM0NjMjhLMTZaNkgzblZyUnY0R3NpZz09In0sIm1lIjp7ImlkIjoiMjM0NzA4OTgxNjg2NjoxNEBzLndoYXRzYXBwLm5ldCJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMzQ3MDg5ODE2ODY2OjE0QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmQ4VGd4TU9GVUFLTlNZLzZQUGZYak5nVmg5S2JaZTF0TXE1U0J5WjNFVkgifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjIwODE1NzIsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBQWZPIn0="
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -84,15 +85,15 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb://u67wtnui9m87lq4yhmvv:tpelVygzO9NWafGwF0D@bmrkwjjqyq2xfesqxn7z-mongodb.services.clever-cloud.com:2052/bmrkwjjqyq2xfesqxn7z"
+    "value": "mongodb+srv://excelamadi1:0bjdiGCzevQUGjtN@cluster0.5mrjus2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are IZUKU,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "IZUKU"
+     "value": "CENTIO"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-         "value": "private"
+         "value": "public"
   },
       "AUTO_REACTION": {
     "description": "Reacts emoji to all commands.",
@@ -101,7 +102,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "izuku;midoriya",
+     "value": "cetino;bot",
      "required": false 
   },
   "heroku": {
