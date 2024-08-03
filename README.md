@@ -49,7 +49,7 @@ Give Centio-bot a star to show your appreciation and support 🌟 to the team.
 
 
 # 🪢 DEPLOY 🪢
- <a href="https://github.com/DigitalCen/Centio-bot/fork" target="_blank">
+ <a href="https://render.com/signup" target="_blank">
   <img src="https://img.shields.io/badge/DEPLOY-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
