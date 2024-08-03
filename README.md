@@ -41,9 +41,9 @@ Give Centio-bot a star to show your appreciation and support 🌟 to the team.
 
 ## 🎯 `Installation Procedure` 🎯
 
+- >FORK Centio-bot 
 
-
-  -<a href="https://github.com/DigitalCen/Centio-Bot/fork
+   <a href="https://github.com/DigitalCen/Centio-Bot/fork
 "><img title="STAR" src="https://img.shields.io/badge/FORK Centio-bot?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
