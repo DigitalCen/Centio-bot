@@ -61,7 +61,7 @@ Give Centio-bot a star to show your appreciation and support 🌟 to the team.
 ### KOYEB
 - >Create a Koyeb Account using your GitHub account 
 
-[CREATE  ACCOUNT](https://app.koyeb.com/signup)
+[CREATE  ACCOUNT](https://app.koyeb.com/auth/signup)
 
 - >Then Import Your Forked Repo & Deploy 
 
