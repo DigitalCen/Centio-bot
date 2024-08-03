@@ -51,4 +51,4 @@ Give Centio-bot a star to show your appreciation and support 🌟 to the team.
 # 🪢 DEPLOY 🪢
 
 [HEROKU](https://dashboard.heroku.com/new?template=https://github.com/DigitalCen/Centio-Bot)
-[![Render](https://i.imgur.com/6YjD1Kj.png)](https://render.com/signup)
+[![Imgur Image](https://i.imgur.com/j1KnFp1.png)](https://render.com/signup)
