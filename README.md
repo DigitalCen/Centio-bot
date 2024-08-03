@@ -2,8 +2,13 @@
 
 
 
- > Centio-bot is a multi-functional bot by Excel Ottuah Recoded by Digitalcen , designed for various tasks, including file conversion, downloads, games, group management, image processing, and more. It is built to be easily deployable (free deployment) and customizable, making it a great tool for any community or personal use.
+ > Centio-bot is a multi-functional bot by Excel Ottah Recoded by Digitalcen , designed for various tasks, including file conversion, downloads, games, group management, image processing, and more. It is built to be easily deployable (free deployment) and customizable, making it a great tool for any community or personal use.
 
+>XLICON-V2-MD is based on :
+>- [IZUKU]https://github.com/excelottah6/IZUKU-MD) by [Excel Ottah](https://github.com/excelottah6) 
+>
+> :octocat: Don't forget to check out! :point_right: [IZUKU-MD](https://github.com/excelottah6/IZUKU-MD)
+</p>
 
 
 
