@@ -58,9 +58,12 @@ Give Centio-bot a star to show your appreciation and support 🌟 to the team.
 
 <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='IMPORT' src='https://img.shields.io/badge/IMPORT -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
+### KOYEB
+
+
 - >Then Deploy 
 
-[![Deploy on Koyeb](https://www.koyeb.com/static/images/Deploy/button.svg)](https://app.koyeb.com/services/new?service_type=web&step=serviceType)  
+[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/services/new?service_type=web&step=serviceType)  
     
 
 <a href='https://railway.app/login' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
