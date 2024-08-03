@@ -53,4 +53,4 @@ Give Centio-bot a star to show your appreciation and support 🌟 to the team.
   <img src="https://img.shields.io/badge/DEPLOY-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
-[HEROKU](https://dashboard.heroku.com/new?template=https://github.com/DigitalCen/Centio-Bot)
+<a href='https://dashboard.heroku.com/new?template=https://github.com/DigitalCen/Centio-Bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=blue'/></a>
