@@ -43,7 +43,7 @@ Give Centio-bot a star to show your appreciation and support 🌟 to the team.
 
 
 
-  ## •|[FORK REPO](https://github.com/DigitalCen/Centio-Bot/fork)
+  ## •| [FORK REPO](https://github.com/DigitalCen/Centio-Bot/fork)
 
 ## GET SESSION_ID 
 
