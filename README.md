@@ -56,9 +56,9 @@ Give Centio-bot a star to show your appreciation and support 🌟 to the team.
 
  <a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
     
-- >Then Import You forked Repo 
+- >Then Import You forked Repo & Deploy
 
-<a href='https://dashboard.render.com' target="_blank"><img alt='IMPORT' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='IMPORT' src='https://img.shields.io/badge/IMPORT -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
 [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
     
