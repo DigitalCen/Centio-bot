@@ -58,10 +58,14 @@ Give Centio-bot a star to show your appreciation and support 🌟 to the team.
     
 
 <a href='https://railway.app/login' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
+
 ### Heroku 
+
 - Create Account if You don't have 
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
 -Then Deploy
+
 <a href='https://dashboard.heroku.com/new?template=https://github.com/DigitalCen/Centio-Bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
