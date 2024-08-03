@@ -59,9 +59,10 @@ Give Centio-bot a star to show your appreciation and support 🌟 to the team.
 <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='IMPORT' src='https://img.shields.io/badge/IMPORT -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
 ### KOYEB
+- >Create a Koyeb Account 
+[CREATE  ACCOUNT](https://app.koyeb.com/account/oauth/github/callback?code=726466679f5e8470598d&state=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZ2l0aHViIiwicmVkaXJlY3RfdXJpIjoiaHR0cHM6Ly9hcHAua295ZWIuY29tL2FjY291bnQvb2F1dGgvZ2l0aHViL2NhbGxiYWNrIiwiYWN0aW9uIjoic2lnbnVwIiwiZXhwIjoxNzIyNzI3MjE1fQ.f2NVqCB5vUH-AW3qBK3YE7rEmDnRkDwllFLSEbY2-j4)
 
-
-- >Then Deploy 
+- >Then Import Your Forked Repo & Deploy 
 
 [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/services/new?service_type=web&step=serviceType)  
     
