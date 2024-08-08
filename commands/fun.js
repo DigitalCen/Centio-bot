@@ -234,7 +234,7 @@ async (Void, citel, match) => {
         contextInfo: {
           externalAdReply: {
             title: "Would You Rather",
-            body: 'Powered by IZUKU-MD',
+            body: 'Powered by Centino-bot',
             renderLargerThumbnail: true,
             thumbnail: { url: imageUrl },
             mediaType: 1,
