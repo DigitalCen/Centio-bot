@@ -227,7 +227,7 @@ async (Void, citel, match) => {
 
     if (data && data.ops1 && data.ops2) {
       let { ops1, ops2 } = data;
-      let imageUrl = 'https://telegra.ph/file/b7861f3b2d9136fb78295.jpg';
+      let imageUrl = 'https://pp.do/file/eb36ed89d8b6a9b3abec3.jpg';
 
       await Void.sendMessage(citel.chat, {
         text: `*Would You Rather:*\n1. ${ops1}\n2. ${ops2}`,
