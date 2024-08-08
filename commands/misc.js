@@ -67,7 +67,7 @@ async(Void, citel, text,{ isCreator }) => {
          },
          async(Void, citel, text) => {
 let a = await getBuffer(`https://vihangayt.me/maker/text2gif?q=${text}`)
- return citel.reply(a,{packname:'IZUKU',author:'ATTP'},"sticker") 
+ return citel.reply(a,{packname:'Cetino',author:'ATTP'},"sticker") 
          }
      )
  cmd({
@@ -78,7 +78,7 @@ let a = await getBuffer(`https://vihangayt.me/maker/text2gif?q=${text}`)
          },
          async(Void, citel, text) => {
 let a = await getBuffer(`https://vihangayt.me/maker/text2img?q=${text}`)
- return citel.reply(a,{packname:'IZUKU',author:'TTP'},"sticker") 
+ return citel.reply(a,{packname:'Cetino',author:'TTP'},"sticker") 
          }
      )
      //---------------------------------------------------------------------------
