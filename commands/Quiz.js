@@ -18,13 +18,13 @@ const quizQuestions = [
     },
 
     {
-        question: "WHO IS THE OWNER OF IZUKU?",
-        options: ["A. EO", "B. SP", "C. SL"],
+        question: "what's  Batman real name?",
+        options: ["A. Bruce wayne", "B. Theodre acain", "C. Silva cunn"],
         correctAnswer: "A"
     },
 
     {
-        question: "IZUKU IS MADE FROM WHAT LANGUAGE ?",
+        question: "Cetino is built using what LANGUAGE ?",
         options: ["A. NODE", "B. JAVA", "C. REACT"],
         correctAnswer: "A"
     },
