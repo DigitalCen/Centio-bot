@@ -130,9 +130,9 @@ Group: https://chat.whatsapp.com/Gm1ZM1vrQFI3UCOtgPtasH
             headerType: 4,
             contextInfo: {
                 externalAdReply: {
-                    title: "IZUKU-Repo",
+                    title: "Cetino-Repo",
                     body: "Easy to Use",
-                    thumbnail: log0,
+                    thumbnail: ,
                     mediaType: 4,
                     mediaUrl: '',
                     sourceUrl: ``,
